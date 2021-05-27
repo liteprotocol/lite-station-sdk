@@ -1,4 +1,4 @@
-## What is Tron Station SDK?
+## What is Lite Station SDK?
 
 __[Tron Station SDK - Developer Document](https://developers.tron.network/docs/tron-station-intro)__
 
